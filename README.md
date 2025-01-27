@@ -1,5 +1,5 @@
 ## Hi there 👋
-keep learning ...
+解放思想，发展生产力。
 <!--
 **BakeryDioOwner/BakerydioOwner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
